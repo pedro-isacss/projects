@@ -127,7 +127,8 @@ button {
   background-color: var(--veryDarkCyan);
   padding: 3%;
   width: 100%;
-  max-width: 400px;
+  max-width: 500px;
+  margin-left: 12px;
   border-radius: 16px;
   min-height: 60vh;
   position: relative;
@@ -188,6 +189,7 @@ button {
   }
   .result {
     margin-top: 24px;
+    margin-left: 0;
   }
 }
 
